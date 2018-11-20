@@ -27,7 +27,7 @@ namespace AgeInsultGenerator
             }
             else if (age >= 18 && age < 25)
             {
-                WriteLine("You should be in college or finished  with college by now. You should not be a deadbeat");
+                WriteLine("You should be in college or finished with college by now. You should not be a deadbeat");
             }
             else if (age >= 25 && age < 32)
             {
