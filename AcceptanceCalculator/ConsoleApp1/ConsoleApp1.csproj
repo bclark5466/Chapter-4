@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\bc137128\Desktop\C#\Chapter-4\ConsoleApp1\Acceptance Calculator.cs" Link="Acceptance Calculator.cs" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CheckBoxes", "CheckBoxes\CheckBoxes.shproj", "{7DCF32E6-E917-414C-8B48-1A5F25398C3A}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CheckBoxes\CheckBoxes.projitems*{7dcf32e6-e917-414c-8b48-1a5f25398c3a}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99B1C5A-79B9-41CB-A752-EEB0A840EE60}
+	EndGlobalSection
+EndGlobal

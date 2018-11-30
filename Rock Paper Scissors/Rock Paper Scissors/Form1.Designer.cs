@@ -52,9 +52,9 @@
             this.btnRock.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnRock.BackgroundImage")));
             this.btnRock.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnRock.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnRock.Location = new System.Drawing.Point(79, 80);
+            this.btnRock.Location = new System.Drawing.Point(12, 80);
             this.btnRock.Name = "btnRock";
-            this.btnRock.Size = new System.Drawing.Size(297, 294);
+            this.btnRock.Size = new System.Drawing.Size(364, 294);
             this.btnRock.TabIndex = 1;
             this.btnRock.UseVisualStyleBackColor = true;
             this.btnRock.Click += new System.EventHandler(this.button1_Click);
@@ -102,7 +102,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1316, 635);
+            this.ClientSize = new System.Drawing.Size(1081, 379);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.lblChosen);
             this.Controls.Add(this.btnScissors);
